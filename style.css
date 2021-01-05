@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+
+}
+
+.unorderedlist {
+    top: 10px;
+    right: 30px;
+    position: absolute;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.list {
+    float: left;
+    color: red;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: sans-serif;
+    font-size: 20px
+}
